@@ -9,30 +9,42 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 
 ## Technologies used:
 
-1. python 3
+    1. python 3
 
 ## Running the project:
 
-Ensure you have python 3 installed on your system
+Ensure you have the following installed:
+    - python 3 installed on your system. Incase you do not have python 3 installed,installation instructions  [can be found here]("https://www.python.org/downloads/)
+    - git (optional) For installation instructions on git, [visit the git documentation]("https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-For installation instructions on python, [visit the python documentation]("https://www.python.org/downloads/)
 
-With python installed follow the following steps:
+## Running the project using git:
 
-### Method 1 : git cloning this project
 
-cloning this project requires a git installation on your system
+Open your terminal and run the clone command :
 
-For installation instructions on git, [visit the git documentation]("https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-clone this project using
+```sh
+git clone https://github.com/wamaithaNyamu/FIZZBUZZ-CREDIATION.git
 
-Open your terminal and run the clone command before
-`git clone http://wamaithanyamu/crediation-fizzbuzz`
+```
 
-To run the test :
 
-`python crediation-fizzbuzz/fizz_buzz.py`
+Then run the project :
 
-### Method 2: downloading the zip from github
+```sh
+python FIZZBUZZ-CREDIATION/fizz_buzz.py
 
+```
+
+## Running the project without git
+
+Download the project as a zip folder from github and unzip it .
+
+Then open a terminal within the unzipped folder and run:
+
+
+```sh
+python fizz_buzz.py
+
+```
